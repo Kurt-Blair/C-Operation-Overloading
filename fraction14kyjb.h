@@ -52,6 +52,4 @@ private:
 
 ostream &operator<<(ostream &output, fraction_14kyjb &input);
 
-istream &operator>>(istream &output, fraction_14kyjb &input);
-
 #endif /* FRACTION14KYJB_H_ */
