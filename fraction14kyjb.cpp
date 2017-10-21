@@ -89,6 +89,8 @@ fraction_14kyjb fraction_14kyjb::normalize(void){
 
 }
 
+//Function to assign fraction as negative or positive based on numerator and denominator
+
 fraction_14kyjb fraction_14kyjb::assign(void){
 int gcd = GCD(num, den);
 
