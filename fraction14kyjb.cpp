@@ -301,19 +301,6 @@ ostream &operator<<(ostream &output, fraction_14kyjb& fraction){
 	return output;
 }
 
-istream &operator>>(istream &input, fraction_14kyjb& fraction ){
-
-    input >> fraction.getNumerator() >> " / " >>fraction.getDenominator();
- 	return input;
-
-}
-
-int main(){
-
-
-
-}
-
 
 
 
