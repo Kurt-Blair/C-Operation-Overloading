@@ -307,6 +307,5 @@ ostream &operator<<(ostream &output, fraction_14kyjb& fraction){
 
 
 fraction_14kyjb::~fraction_14kyjb() {
-	// TODO Auto-generated destructor stub
 }
 
